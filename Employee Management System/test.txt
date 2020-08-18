@@ -1,0 +1,14 @@
+Name----id---position---salery
+------------------------------
+Rony-----11-----Admin----200000
+Masud----22------HR------532452
+Mashiur--33------IT-------90000
+Mamun----16------SR------50000
+Raiyaan--38------CR------40000
+Hriddo---08-----Analyst--80000
+Rini-----12----DM--------120000
+
+
+Condition:
+1. Class and Object.
+2. Term Wise Sorting.
